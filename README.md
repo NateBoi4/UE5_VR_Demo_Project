@@ -9,13 +9,15 @@ There are several sandbox games of this kind out there, but not many of which ar
 
 The requirements for this demo project to be completed would be:
 
-A UI/Menu system through which players can access their objects
+* A UI/Menu system through which players can access their objects
 
-An array of set objects for the player to manipulate through play. (To make this more game-like, this list could be expanded as time goes on, or as more objects are placed.)
+* An array of set objects for the player to manipulate through play. (To make this more game-like, this list could be expanded as time goes on, or as more objects are placed.)
 
-The player should have the ability to manipulate objects using VR controller inputs.
+* The player should have the ability to manipulate objects using VR controller inputs.
 
-The player should have the ability to create simple effects (Lighting, Time, Clouds(rain, snow, lightning), Fog, etc.)
+* The player should have the ability to create simple effects (Lighting, Time, Clouds(rain, snow, lightning), Fog, etc.)
+
+* The player can add elemental effects to the world (water, fire, ice, mud, etc.)
 
 Optional: The player should have the ability to save and load the "levels" that they have created.
 
